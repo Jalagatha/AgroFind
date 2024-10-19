@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AgroFInd</string>
+    <string name="get_started">Get Started</string>
+    <string name="start">Get Started</string>
+    <string name="welcome">Welcome to AgroFind mobile Application \nWe are at your best service\nThanks for choosing us</string>
+    <string name="go">Let\'s go</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="account">Account</string>
+    <string name="scan_code">Scan code</string>
+    <string name="products">Products</string>
+    <string name="generate_qr_code">Generate QR Code</string>
+    <string name="product_name">Product Name</string>
+</resources>

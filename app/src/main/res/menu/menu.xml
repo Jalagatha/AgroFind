@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/reg"
+        android:title="@string/account" />
+    <item
+        android:id="@+id/qrcodeFragment"
+        android:icon="@drawable/baseline_camera_24"
+        android:title="@string/scan_code" />
+    <item
+        android:id="@+id/productsFragment"
+        android:icon="@drawable/baseline_category_24"
+        android:title="@string/products" />
+    <item
+        android:id="@+id/detailsFragment"
+        android:icon="@drawable/reg"
+        android:title="@string/account" />
+</menu>
